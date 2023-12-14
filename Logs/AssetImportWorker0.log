@@ -428,3 +428,123 @@ Received Import Request.
   path: Assets/Audio/East Sussex College 2.mp3
   artifactKey: Guid(21111a8636b5e0d4a85831d6611f04d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Audio/East Sussex College 2.mp3 using Guid(21111a8636b5e0d4a85831d6611f04d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06473965c1cdca3ed339cf99a0b2cac9') in 0.026625 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019053 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\539155\Christmas_GameJam_2023\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\539155\Christmas_GameJam_2023\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.062 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2062ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1612ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (571ms)
+				TypeCache.Initialize (554ms)
+					TypeCache.ScanAssembly (546ms)
+				ResolveRequiredComponents (18ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (723ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (72ms)
+				SetLoadedEditorAssemblies (10ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (153ms)
+				ProcessInitializeOnLoadAttributes (363ms)
+				ProcessInitializeOnLoadMethodAttributes (102ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5455 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (1.5 MB). Loaded Objects now: 6168.
+Memory consumption went from 0.85 GB to 0.84 GB.
+Total: 8.021100 ms (FindLiveObjects: 0.635000 ms CreateObjectMapping: 0.784700 ms MarkObjects: 5.524300 ms  DeleteObjects: 1.075400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 875.650253 seconds.
+  path: Assets/Audio/East Sussex College 3.mp3
+  artifactKey: Guid(ea638cb82aae29f488db71b755295661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/East Sussex College 3.mp3 using Guid(ea638cb82aae29f488db71b755295661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e455ba7df9a4e8d9a6add70f1431265d') in 0.089570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 595.786534 seconds.
+  path: Assets/Audio/krampustom.mp3
+  artifactKey: Guid(01f4468fbcee6654c92e6f2a45c39415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/krampustom.mp3 using Guid(01f4468fbcee6654c92e6f2a45c39415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3375a6911e85aa104ad302f3641a587') in 0.038948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.356878 seconds.
+  path: Assets/Audio/krampus zach.mp3
+  artifactKey: Guid(8a822e27a3be5cd4f8c56ed5abfb6e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/krampus zach.mp3 using Guid(8a822e27a3be5cd4f8c56ed5abfb6e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86f7f89879dfeae073dae18f9230d10') in 0.035357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.289797 seconds.
+  path: Assets/Audio/krampus niko.mp3
+  artifactKey: Guid(21111a8636b5e0d4a85831d6611f04d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/krampus niko.mp3 using Guid(21111a8636b5e0d4a85831d6611f04d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14349ecf2e541c9165dc109d5c3fdcf') in 0.021391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.115995 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(6010634286ef6c14caa9ac19beca6d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(6010634286ef6c14caa9ac19beca6d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe3c083b0dfbac450b2681e55a0b6710') in 0.013415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.680207 seconds.
+  path: Assets/Audio/krampus alex.mp3
+  artifactKey: Guid(ea638cb82aae29f488db71b755295661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/krampus alex.mp3 using Guid(ea638cb82aae29f488db71b755295661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d738019ff87d95d8711302c2ba2b7b') in 0.019825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 333.978915 seconds.
+  path: Assets/Audio/krampusoscar.mp3
+  artifactKey: Guid(c4dadfb0db1bf73479fe0bd6bcf7968f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/krampusoscar.mp3 using Guid(c4dadfb0db1bf73479fe0bd6bcf7968f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2826fcf698e1e466d2840a66f420a2f8') in 0.030679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.905617 seconds.
+  path: Assets/Audio/East Sussex College 5.mp3
+  artifactKey: Guid(3e05ec782f7b3f648957eb509af1df6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/East Sussex College 5.mp3 using Guid(3e05ec782f7b3f648957eb509af1df6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8509259f261d5946447caad5130090ab') in 0.035848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.134427 seconds.
+  path: Assets/Audio/krampus james.mp3
+  artifactKey: Guid(3e05ec782f7b3f648957eb509af1df6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/krampus james.mp3 using Guid(3e05ec782f7b3f648957eb509af1df6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba4dc1d725a4838a8569f2e317e5260') in 0.045659 seconds 
